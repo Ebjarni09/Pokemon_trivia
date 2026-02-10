@@ -11,3 +11,7 @@ Pappírfrumgerð: <img width="589" height="417" alt="pap spil" src="https://gith
 Spurningar og Svör: https://docs.google.com/document/d/1FNNhm08FpTpC56ye4r0TlRrWBz1WJL-gDlBvLqHVj-8/edit?usp=sharing 
 
 Pokemon stats: https://docs.google.com/document/d/1GUTC3qSrdWJqWKVBE6MTiukSV2TfayVb4FyZK0oqjbQ/edit?usp=sharing
+
+
+2d 
+![Bordspil235x400)](https://github.com/user-attachments/assets/c2e4f0e7-d727-40f8-a338-8fd8a27c2053)
