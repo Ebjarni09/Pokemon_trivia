@@ -38,5 +38,6 @@ Sigurvegarinn velur síðan hvern hann berst við næst, en bannað er að velja
 Þegar spilari hefur enga Pokemons eftir er hann úr leik.
 
 
-Pappírfrumgerð: ![Spil](https://github.com/user-attachments/assets/8c7fa89b-6d7a-4c0f-a67f-1b0c83ed1fb4)
+Pappírfrumgerð: <img width="589" height="417" alt="pap spil" src="https://github.com/user-attachments/assets/4ac0149e-7ad1-40ae-ac2e-bed6b967d629" />
+
 
