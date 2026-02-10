@@ -40,6 +40,6 @@ Sigurvegarinn velur síðan hvern hann berst við næst, en bannað er að velja
 
 Pappírfrumgerð: <img width="589" height="417" alt="pap spil" src="https://github.com/user-attachments/assets/4ac0149e-7ad1-40ae-ac2e-bed6b967d629" />
 
-Spurningar og Svör https://docs.google.com/document/d/1SAfEx4D0MXgG-rhUrfES2raqz8mpVz79xNAHPD0rklw/edit?usp=sharing
+Spurningar og Svör: https://docs.google.com/document/d/1FNNhm08FpTpC56ye4r0TlRrWBz1WJL-gDlBvLqHVj-8/edit?usp=sharing 
 
 
