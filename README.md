@@ -42,4 +42,5 @@ Pappírfrumgerð: <img width="589" height="417" alt="pap spil" src="https://gith
 
 Spurningar og Svör: https://docs.google.com/document/d/1FNNhm08FpTpC56ye4r0TlRrWBz1WJL-gDlBvLqHVj-8/edit?usp=sharing 
 
-
+2d hönnun
+![Bordspil235x400)](https://github.com/user-attachments/assets/9f941bb9-2cb3-46fd-92ad-0e5a260bcf38)
