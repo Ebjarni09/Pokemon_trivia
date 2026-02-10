@@ -44,3 +44,5 @@ Spurningar og Svör: https://docs.google.com/document/d/1FNNhm08FpTpC56ye4r0TlRr
 
 2d hönnun
 ![Bordspil235x400)](https://github.com/user-attachments/assets/9f941bb9-2cb3-46fd-92ad-0e5a260bcf38)
+
+3d hönnun 
