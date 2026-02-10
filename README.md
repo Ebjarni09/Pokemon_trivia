@@ -36,3 +36,7 @@ Hver pokemon hefur attack, defense og líf. Ef pokemon missir öll líf sín tap
 Sigurvegarinn velur síðan hvern hann berst við næst, en bannað er að velja sama og þú varst að berjast með (ef fleiri en 2 eru að spila).
 
 Þegar spilari hefur enga Pokemons eftir er hann úr leik.
+
+
+Pappírfrumgerð: ![Spil](https://github.com/user-attachments/assets/8c7fa89b-6d7a-4c0f-a67f-1b0c83ed1fb4)
+
