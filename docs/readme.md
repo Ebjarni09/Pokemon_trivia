@@ -1,6 +1,6 @@
-Reglur
+**Reglur**
   
-  Spilið
+  **Spilið**
   
 2-4 spilara
 
@@ -18,7 +18,7 @@ Sú pokemon sem er reynt að ná verður í miðju hringsins (dregið efsta úr 
 
 Eftir 15 umferðir byrjar bardaginn (umferð klárast þegar allir eru búnir að svara spurningu)
 
-  Bardaginn
+  **Bardaginn**
 
 Hver spilari ætti að hafa Pokemons, ef spilari hefur enginn Pokemons er hann úr leik
 
