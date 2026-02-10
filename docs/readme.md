@@ -1,4 +1,4 @@
-reglur
+Reglur
   
   Spilið
 2-4 spilara
