@@ -1,6 +1,7 @@
 Reglur
   
   Spilið
+  
 2-4 spilara
 
 Til að fara áfram þarf að kasta tening
