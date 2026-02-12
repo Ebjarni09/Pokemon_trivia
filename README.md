@@ -14,4 +14,5 @@ Pokemon stats: https://docs.google.com/document/d/1GUTC3qSrdWJqWKVBE6MTiukSV2Tfa
 
 
 2d 
-![Bordspil235x400)](https://github.com/user-attachments/assets/c2e4f0e7-d727-40f8-a338-8fd8a27c2053)
+![Bordspil235x400)](https://github.com/user-attachments/assets/b825e059-8e04-4f9f-8f2d-4ec588aeeb81)
+
