@@ -1,7 +1,7 @@
 # Pokemon_trivia
 Elias og Birgir
 
-hugmyndin er að Þú kastar tening og ferð áfram. Hver reitur er merktur með spurningum sem eru miserfiðar og ef þú svarar rétt ýtir þú á takan sem tilheyrir hverjum erfiðleika. Ef ljósið verður rautt nærðu ekki Pokemoninum sem er á myðju borðinu, en ef það verður grænt nærðu honum. Eftir 15 umferðir byrjar bardaginn, ef þú missir alla pokemonin þá ertu úr leik. 
+Hugmyndin er að þú kastar tening og ferð áfram samsvarandi við kastið. Hver reitur er merktur með spurningum sem eru miserfiðar. Þú getur lent á reit sem stendur auðveld spurning og þá færðu auðveldari spurningu, svo miðlungs og erfiðari. Ef þú svarar rétt ýtir þú á takkann sem tilheyrir hverju erfiðleikastigi. Eftir hverja umferð draga allir spil sem eru Pókemonar sem eru notaðir eftir 15 umferðir. Þegar þú hefur dregið spil hefurðu  Ef ljósið verður rautt nærðu ekki Pokemoninum sem er á miðju borðinu, en ef það verður grænt nærðu honum. Eftir 15 umferðir byrjar bardaginn, en þá notar þú spjöldin sem þú hefur safnað með því að svara spurningum rétt. ef þú missir alla pokemonin þá ertu úr leik. 
 
 
 
