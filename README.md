@@ -1,7 +1,7 @@
 # Pokemon_trivia
 Elias og Birgir
 
-Hugmyndin er að þú kastar tening og ferð áfram samsvarandi við kastið. Hver reitur er merktur með spurningum sem eru miserfiðar. Þú getur lent á reit sem stendur auðveld spurning og þá færðu auðveldari spurningu, svo miðlungs og erfiðari. Ef þú svarar rétt ýtir þú á takkann sem tilheyrir hverju erfiðleikastigi. Eftir hverja umferð draga allir spil sem eru Pókemonar sem eru notaðir eftir 15 umferðir. Þegar þú hefur dregið spil hefurðu  Ef ljósið verður rautt nærðu ekki Pokemoninum sem er á miðju borðinu, en ef það verður grænt nærðu honum. Eftir 15 umferðir þá leggur , en þá notar þú spjöldin sem þú hefur safnað með því að svara spurningum rétt. . 
+Hugmyndin er að þú kastar tening og ferð áfram samsvarandi við kastið. Hver reitur er merktur með spurningum sem eru miserfiðar. Þú getur lent á reit sem stendur auðveld spurning og þá færðu auðveldari spurningu, svo miðlungs og erfiðari. Ef þú svarar rétt ýtir þú á takkann sem tilheyrir hverju erfiðleikastigi. Eftir hverja umferð draga allir spil sem eru Pókemonar sem eru notaðir eftir 15 umferðir.  Þegar þú hefur dregið spil hefurðu séns á að ná þeim og sénsinn að ná Pokemon fer eftir hvernig bolta þú ert með. Ef ljósið verður rautt nærðu ekki Pokemoninum sem er á miðju borðinu, en ef það verður grænt nærðu honum. Hvert spil er með tölu 1-3 og eftir 15 umferðir þá legguru þau saman. Sá sem er með flestu stiginn vinna. 
 
 
 
