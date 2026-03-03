@@ -16,4 +16,10 @@ Pokemon stats: https://docs.google.com/document/d/1GUTC3qSrdWJqWKVBE6MTiukSV2Tfa
 2d 
 ![Bordspil235x400)](https://github.com/user-attachments/assets/d7cee06b-3bcc-438f-8062-cf6d447cb3f1)
 
+3d
+![IMG_1962](https://github.com/user-attachments/assets/9499d366-e197-4aef-a28b-ed25c8588d12)
+
+
+Spil
+
 
