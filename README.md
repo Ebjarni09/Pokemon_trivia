@@ -23,4 +23,7 @@ Pokemon stats: https://docs.google.com/document/d/1GUTC3qSrdWJqWKVBE6MTiukSV2Tfa
 Spil
 ![IMG_1963](https://github.com/user-attachments/assets/04505a61-e939-452c-9d65-0cdc0343bd67)
 
+Borðspil
+https://mail.google.com/mail/u/0?ui=2&ik=40f4e948b5&attid=0.1&permmsgid=msg-a:r-6407163760006126618&th=19cb3ab450b278fe&view=fimg&fur=ip&permmsgid=msg-a:r-6407163760006126618&sz=s0-l75-ft&attbid=ANGjdJ_6mw9_tEJXDO9e5g_-aRDCOivYX7mfqGgsn1DJmG6WCUQH8_WnWGulYFDGf5irFiP5CB_aoy8bMPjcHjK6Fow9jbiF0a3aodC32NGjpsO8W0i3e82VsfE33lg&disp=emb&realattid=ii_19cb3ab276ff027cfee1&zw<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/797296ac-3fba-4cae-9fda-478d7f04c715" />
+
 
