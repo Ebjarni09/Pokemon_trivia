@@ -21,5 +21,6 @@ Pokemon stats: https://docs.google.com/document/d/1GUTC3qSrdWJqWKVBE6MTiukSV2Tfa
 
 
 Spil
+![IMG_1963](https://github.com/user-attachments/assets/04505a61-e939-452c-9d65-0cdc0343bd67)
 
 
