@@ -1,33 +1,23 @@
 **Reglur**
   
-  **Spilið**
   
-2-4 spilarar.
+2-4 spilara
 
-Til að fara áfram þarf að kasta tening.
+2 Spilarar = 15 umferðir. 3 spilarar = 10 umferðir. 4 Spilarar = 5 Umferðir
 
-Til að fá bolta þarf að svara spurningum rétt, Erfiðari spurningar gefa betri bolta (boltarnir eru takkanir).
+Til að fara áfram þarf að kasta tening
+
+Til að ýta á takka þarf að svara spurningum rétt, Erfiðari spurningar gefa betri sénsi.
+
+Hver takki er merktur nafni, Spilin segja á bakhliðinni hvaða takka á að ýta á
 
 Sá sem er að svara spurningunni dregur ekki spilið, Einhver annar leikmaður spyr spurningana fyrir aðilan og segir hvort svarið sé rétt eða rangt.
 
-Til að reyna ná Pokemon þarf að ýta á takkan sem tilheyrir hverjum bolta. Ef ljósið verður rautt nærðu ekki Pokemoninum, en ef þar verður grænt nærðu honum.
+Til að reyna ná Pokemon þarf að ýta á takkan sem tilheyrir hverjum spurninga flokk. Ef ljósið verður rautt nærðu ekki Pokemoninum, en ef þar verður grænt nærðu honum.
 
-Sú pokemon sem er reynt að ná verður í miðju hringsins (dregið efsta úr bunkanum og sett í miðjuna).
+Sú pokemon sem er reynt að ná verður í miðju hringsins (dregið efsta úr bunkanum og sett í miðjuna)
 
-Það má bara hafa 6 pokemons í einu. 
+Hver Pokemon gefur X mikið af stigum
 
-Eftir 15 umferðir byrjar bardaginn (umferð klárast þegar allir eru búnir að svara spurningu).
+Sá sem hefur flest stig eftir leikinn er sigurvegarinn. Sigurvegarinn setur bikarinn á miðju boltans sem er á miðju leikhringsins
 
-  **Bardaginn**
-
-Hver spilari ætti að hafa Pokemons, ef spilari hefur enginn Pokemons er hann úr leik.
-
-Sá sem var fyrstur og síðastur að kasta í spilinu byrja bardagann.
-
-Spilara velja báðir einn Pokemon til að berjast.
-
-Hver pokemon hefur attack, defense og líf. Ef pokemon missir öll líf sín tapar sú spilari.
-
-Sigurvegarinn velur síðan hvern hann berst við næst, en bannað er að velja sama og þú varst að berjast með (ef fleiri en 2 eru að spila).
-
-Þegar spilari hefur enga Pokemons eftir er hann úr leik.
